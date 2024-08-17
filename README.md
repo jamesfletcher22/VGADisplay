@@ -1,0 +1,1 @@
+This is a simple VGA display driver I wrote in VHDL to display a test pattern. I just hard-coded a test pattern colour scheme. The horziontal and vertical sync VHDL files are doing most of the work. I've also added the Quartus Project Files and some testbenches. ![IMG_2039](https://github.com/user-attachments/assets/06e5f6a1-ed77-4737-a83e-3baa1e17c369)
